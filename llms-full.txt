@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 423 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 424 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -550,6 +550,17 @@ A secure, 100% native GDScript Server-Sent Events (SSE) server bridging Claude, 
 - Provider: VberAI
 - Official: no
 - Tags: godot, developer-tools, code-intelligence, claude, cursor
+- Category: Developer Tools and Code Intelligence
+
+### installed-api
+
+Answers API questions from the packages installed in the project: Python signatures, docstrings and source from the project's interpreter, TypeScript declarations from node_modules, and installed versions.
+
+- URL: https://github.com/ajwann/installed-api
+- Language: Python
+- Provider: Community
+- Official: no
+- Tags: python, typescript, api-docs, claude-code
 - Category: Developer Tools and Code Intelligence
 
 ### IntlPull MCP Server

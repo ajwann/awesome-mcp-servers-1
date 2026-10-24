@@ -3516,6 +3516,21 @@
     }
   },
   {
+    "name": "installed-api",
+    "url": "https://github.com/ajwann/installed-api",
+    "description": "Answers API questions from the packages installed in the project: Python signatures, docstrings and source from the project's interpreter, TypeScript declarations from node_modules, and installed versions.",
+    "category": "developer-tools-and-code-intelligence",
+    "language": "Python",
+    "provider": "Community",
+    "tags": [
+      "python",
+      "typescript",
+      "api-docs",
+      "claude-code"
+    ],
+    "official": false
+  },
+  {
     "name": "Zaptu",
     "url": "https://github.com/TommyTap11/zaptu",
     "description": "Sends a person's consented US home-service contact request (service, ZIP, name, phone) to independent local providers; for plumbing it returns a number the person dials, and Zaptu does not perform the work.",
